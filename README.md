@@ -13,6 +13,9 @@ Head of Data at WalaPlus, Cairo. I own an enterprise data platform end to end on
 | [fashion-mnist-cnn-gradcam](https://github.com/engomaressam/fashion-mnist-cnn-gradcam) | MLP to CNN (93.7%), a confidence gate that auto-tags 80% of images at 99.1%, Grad-CAM |
 | [course-recommender-system](https://github.com/engomaressam/course-recommender-system) | Content-based, clustering and collaborative-filtering recommenders on 233k enrolments, plus three bug fixes in the reference models |
 | [backend-nodejs-capstone](https://github.com/engomaressam/backend-nodejs-capstone) | Node.js / Express / MongoDB marketplace API with JWT auth, a sentiment microservice, Docker Compose and CI |
+| [hieroglyph-classifier](https://github.com/engomaressam/hieroglyph-classifier) | A CNN that names Egyptian hieroglyphs by Gardiner code: 96.9% top-1 on 59 signs from the Pyramid Texts of Unas; model and demo on Hugging Face |
+| [pharaohs-of-egypt](https://github.com/engomaressam/pharaohs-of-egypt) | A reproducible pipeline from Wikidata to validated tables of pharaohs, dynasties and pyramids, published as Kaggle and Hugging Face datasets |
+| [nile-river-flow](https://github.com/engomaressam/nile-river-flow) | Change-point analysis of the Nile at Aswan, 1871–1970: three methods agree on 1898–1900, and an honest test of what a forecaster gains |
 | [superapp](https://github.com/engomaressam/superapp) | ARIA, an agent framework on LangGraph with a FastAPI back end and a React Native client |
 | [graph-rag](https://github.com/engomaressam/graph-rag) · [pdf-chatbot](https://github.com/engomaressam/pdf-chatbot) · [sql-ai-assistant](https://github.com/engomaressam/sql-ai-assistant) | Local-LLM tooling: graph RAG, OCR-to-RAG over PDFs, natural-language SQL |
 | [data-science-with-r](https://github.com/engomaressam/data-science-with-r) · [data-analytics-capstone-cyclistic](https://github.com/engomaressam/data-analytics-capstone-cyclistic) | Analytics projects in R and Python |
