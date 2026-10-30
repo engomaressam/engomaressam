@@ -1,6 +1,8 @@
 # Omar Essam El Sherbiny
 
-Head of Data at WalaPlus, Cairo. I own an enterprise data platform end to end on Google Cloud: the BigQuery warehouse, the production databases, the BI portal on top of them and the delivery pipeline that ships all three. Before that: Data Engineering & ML Lead at Rowad Modern Engineering, and a first career in civil-engineering project controls, which is where the data work started.
+Head of Data at WalaPlus. Data platforms on Google Cloud, data governance, applied ML.
+
+Before that: Data Engineering and Machine Learning Lead at Rowad Modern Engineering, and a first career in civil-engineering project controls, which is where the data work started.
 
 **[omaressam.web.app](https://omaressam.web.app)** · [LinkedIn](https://www.linkedin.com/in/omar-essam-el-sherbiny-b602279b/) · [Credly](https://www.credly.com/users/eng-omar-essam) · [Kaggle](https://www.kaggle.com/engomaressam) · [Hugging Face](https://huggingface.co/omaressamrme)
 
