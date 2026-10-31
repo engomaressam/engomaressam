@@ -49,4 +49,4 @@ Write-ups of the portfolio projects, on [dev.to](https://dev.to/eng_omaressam_7c
 
 ## Credentials
 
-344 Coursera certificates (17 professional certificates, 47 specializations) and 131 Credly badges, every one with a public verification link on [the credentials page](https://omaressam.web.app/credentials/). Currently preparing for the Google Cloud Professional Data Engineer, Cloud Architect and Cloud DevOps Engineer certifications.
+352 Coursera certificates (18 professional certificates, 47 specializations) and 134 Credly badges, every one with a public verification link on [the credentials page](https://omaressam.web.app/credentials/). Currently preparing for the Google Cloud Professional Data Engineer, Cloud Architect and Cloud DevOps Engineer certifications.
