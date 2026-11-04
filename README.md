@@ -17,6 +17,7 @@ Before that: Data Engineering and Machine Learning Lead at Rowad Modern Engineer
 | [fashion-mnist-cnn-gradcam](https://github.com/engomaressam/fashion-mnist-cnn-gradcam) | MLP to CNN (93.7%), a confidence gate that auto-tags 80% of images at 99.1%, Grad-CAM |
 | [course-recommender-system](https://github.com/engomaressam/course-recommender-system) | Content-based, clustering and collaborative-filtering recommenders on 233k enrolments, plus three bug fixes in the reference models |
 | [backend-nodejs-capstone](https://github.com/engomaressam/backend-nodejs-capstone) | Node.js / Express / MongoDB marketplace API with JWT auth, a sentiment microservice, Docker Compose and CI |
+| [java-database-capstone](https://github.com/engomaressam/java-database-capstone) | Smart Clinic Management System: Spring Boot 3 REST API and Thymeleaf dashboards over MySQL (JPA) and MongoDB, JWT auth, Docker Compose, four green GitHub Actions workflows, 18 user stories as issues |
 | [hieroglyph-classifier](https://github.com/engomaressam/hieroglyph-classifier) | A CNN that names Egyptian hieroglyphs by Gardiner code: 96.9% top-1 on 59 signs from the Pyramid Texts of Unas; model and demo on Hugging Face |
 | [pharaohs-of-egypt](https://github.com/engomaressam/pharaohs-of-egypt) | A reproducible pipeline from Wikidata to validated tables of pharaohs, dynasties and pyramids, published as Kaggle and Hugging Face datasets |
 | [databricks.project](https://github.com/engomaressam/databricks.project) · [data.warehousing.capstone](https://github.com/engomaressam/data.warehousing.capstone) · [snowflake.tasty](https://github.com/engomaressam/snowflake.tasty) · [database.admin.capstone](https://github.com/engomaressam/database.admin.capstone) | Data engineering: a Databricks medallion lakehouse with Structured Streaming and Unity Catalog, an OLTP-to-star-schema warehouse in MySQL and PostgreSQL, Snowflake ingestion and Snowpark, Airflow ETL |
@@ -49,4 +50,4 @@ Write-ups of the portfolio projects, on [dev.to](https://dev.to/eng_omaressam_7c
 
 ## Credentials
 
-352 Coursera certificates (18 professional certificates, 47 specializations) and 134 Credly badges, every one with a public verification link on [the credentials page](https://omaressam.web.app/credentials/). Currently preparing for the Google Cloud Professional Data Engineer, Cloud Architect and Cloud DevOps Engineer certifications.
+454 Coursera certificates (22 professional certificates, 71 specializations) and 163 Credly badges, every one with a public verification link on [the credentials page](https://omaressam.web.app/credentials/). Currently preparing for the Google Cloud Professional Data Engineer, Cloud Architect and Cloud DevOps Engineer certifications.
